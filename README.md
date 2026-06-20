@@ -1,5 +1,9 @@
 # FerreraFreight
 
+<p align="center">
+  <img src="./assets/FerreraFreight.png" alt="FerreraFreight" width="160">
+</p>
+
 FerreraFreight es una organización de desarrollo orientada a construir herramientas internas para automatización logística, integración de datos, reporting operativo y asistencia mediante agentes.
 
 ## Áreas principales
